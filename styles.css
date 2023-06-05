@@ -1,5 +1,15 @@
 body {
-    background: blue;
+    background: #A6D7DE;
     text-align: center;
-    color: white;
+    color: #4974A5;
+}
+
+.button {
+    background-color:#4974A5;
+    color: #A6D7DE;
+    padding: 20px 32px;
+    text-align: center;
+    font-size: 36px;
+    margin: 15px;
+    cursor: pointer:
 }
