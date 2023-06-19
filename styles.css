@@ -11,5 +11,25 @@ body {
     text-align: center;
     font-size: 36px;
     margin: 15px;
-    cursor: pointer:
+    cursor: pointer;
+}
+
+.button_a {
+    background-color:#4974A5;
+    outline-color: #A6D7DE;
+    color: #A6D7DE;
+    padding: 10px 22px;
+    text-align: left;
+    font-size: 20px;
+    margin: 15px;
+    cursor: pointer;
+}
+
+
+img {
+    width: 50 px;
+}
+
+#int_button {
+    padding: 30;
 }
